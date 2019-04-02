@@ -1,0 +1,2 @@
+C:\Users\18217\Desktop\Sort-Carry-Game\Sort-Carry-Game\obj\Debug\Assembly-CSharp.csprojAssemblyReference.cache
+C:\Users\18217\Desktop\Sort-Carry-Game\Sort-Carry-Game\obj\Debug\Assembly-CSharp.csproj.CoreCompileInputs.cache
